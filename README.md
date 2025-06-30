@@ -34,10 +34,6 @@ These projects strengthened my Python programming, state machine design, hardwar
 **How did you make this project maintainable, readable, and adaptable?**  
 I structured both projects using clear functions and classes, included descriptive comments, and separated hardware interaction from application logic where possible. The use of state machines and modular code makes it easy to adapt the system for additional features or hardware changes in the future.
 
----
 
-## What’s Next?
 
-Both projects have been uploaded to this repository. My instructor has been added as a collaborator.
 
-**Repository Link:** [ADD YOUR REPOSITORY LINK HERE]

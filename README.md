@@ -1,6 +1,6 @@
 CS 350: Emerging Systems Architectures and Technologies
 Portfolio Artifacts and Reflection
-Selected Artifacts
+
 Thermostat Project (thermostat.py)
 This Python script demonstrates the design and implementation of a smart thermostat on a Raspberry Pi, featuring state management (OFF, HEAT, COOL), temperature sensor input, LED indicators, user input buttons, and an LCD display.
 
